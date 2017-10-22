@@ -1,0 +1,2 @@
+# panick
+Sempatpanick.inc
